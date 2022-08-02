@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\laravel-order-management-system\resources\views/layout/partials/header.blade.php ENDPATH**/ ?>
